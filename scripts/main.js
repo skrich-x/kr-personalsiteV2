@@ -1,7 +1,6 @@
 (function(){
   'use strict';
 
-alert('hello');
 
 
   $(document).ready(function(){
